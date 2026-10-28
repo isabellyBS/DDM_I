@@ -3,7 +3,9 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
 import Login from './screens/login/Login';
-// import Home from './screens/home/Home';
+import Sobre from './screens/sobre/Sobre';
+import Princesa_queijo from './screens/princesa_queijo/Princesa_queijo';
+import Turma_monica from './screens/turma_monica/Turma_monica';
 
 const Stack = createNativeStackNavigator();
 
